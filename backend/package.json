@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  "author": "Cameron Clifford",
+  "author": "Sunny Kiritkumar Dev",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.0",
